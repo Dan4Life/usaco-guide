@@ -29,6 +29,30 @@
     }
   ],
   "impl": [
+     {
+      "uniqueId": "cses-2073",
+      "name": "Substring Reversal",
+      "url": "https://cses.fi/problemset/task/2073",
+      "source": "CSES",
+      "difficulty": "Easy",
+      "isStarred": false,
+      "tags": [],
+      "solutionMetadata": {
+        "kind": "none"
+      }
+     }
+     {
+      "uniqueId": "cses-2074",
+      "name": "Reversals and Sums",
+      "url": "https://cses.fi/problemset/task/2074",
+      "source": "CSES",
+      "difficulty": "Easy",
+      "isStarred": false,
+      "tags": [],
+      "solutionMetadata": {
+        "kind": "none"
+      }
+    }
     {
       "uniqueId": "poi-11-TreeRotations2",
       "name": "2011 - Tree Rotations 2",
@@ -41,5 +65,25 @@
         "kind": "internal"
       }
     }
+    {
+      "uniqueId": "ioi-13-game",
+      "name": "2013 - Game",
+      "url": "https://oj.uz/problem/view/IOI13_game",
+      "source": "IOI",
+      "difficulty": "Hard",
+      "isStarred": false,
+      "tags": ["Treap", "2DRQ", "Sparse SegTree"],
+      "solutionMetadata": {
+        "kind": "IOI",
+        "year": 2013
+      }
+    }
   ]
 }
+/*
+- [Old Gold - Airplane Boarding](http://www.usaco.org/index.php?page=viewproblem2&cpid=402)
+- [CSA - Strings](https://csacademy.com/contest/archive/task/strings/)
+- [HE - Points & Distances](https://www.hackerearth.com/problem/algorithm/septembereasy-points-and-distances-d30d0e6b/description/)
+- [IOI 2013 - Game](https://oj.uz/submission/242393)
+- [Algorithms Thread Treaps Contest](https://codeforces.com/gym/102787)
+*/
