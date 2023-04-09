@@ -29,7 +29,7 @@
     }
   ],
   "impl": [
-     {
+    {
       "uniqueId": "cses-2073",
       "name": "Substring Reversal",
       "url": "https://cses.fi/problemset/task/2073",
@@ -40,8 +40,8 @@
       "solutionMetadata": {
         "kind": "none"
       }
-     }
-     {
+    },
+    {
       "uniqueId": "cses-2074",
       "name": "Reversals and Sums",
       "url": "https://cses.fi/problemset/task/2074",
@@ -52,7 +52,7 @@
       "solutionMetadata": {
         "kind": "none"
       }
-    }
+    },
     {
       "uniqueId": "poi-11-TreeRotations2",
       "name": "2011 - Tree Rotations 2",
@@ -64,7 +64,7 @@
       "solutionMetadata": {
         "kind": "internal"
       }
-    }
+    },
     {
       "uniqueId": "ioi-13-game",
       "name": "2013 - Game",
